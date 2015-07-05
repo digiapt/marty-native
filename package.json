@@ -17,9 +17,6 @@
   "dependencies": {
     "marty-lib": "^0.10.6"
   },
-  "peerDependencies": {
-    "react-native": "^0.4.0"
-  },
   "author": "James Hollingworth",
   "licence": "MIT",
   "licenses": [
