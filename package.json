@@ -15,7 +15,7 @@
     "flux"
   ],
   "dependencies": {
-    "marty-lib": "^0.10.6"
+    "marty-lib": "0.10.6"
   },
   "author": "James Hollingworth",
   "licence": "MIT",
